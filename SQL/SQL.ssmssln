@@ -7,14 +7,31 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL", "SQL\SQL.ssmssqlproj"
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DDL", "DDL\DDL.ssmssqlproj", "{7E6C8FE5-D8F5-4E03-8B01-A9491486CD6B}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{F40F34A4-2560-484B-9D50-4DFF0015F80E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42380E58-2758-4912-9FAC-55F4EAAC7990}"
+	ProjectSection(SolutionItems) = preProject
+		..\ReadMe.txt = ..\ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TransactSQL", "TransactSQL\TransactSQL.ssmssqlproj", "{C2DAE0D4-5286-43EC-9B15-D4418B967E6E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HomeWork", "HomeWork\HomeWork.ssmssqlproj", "{79D002AE-6E23-4435-B26F-C94D9CB28013}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Functions", "Functions\Functions.ssmssqlproj", "{1BFC6E64-4408-4540-98C5-9344581157B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6445D0F2-FD7D-4901-A195-0417C897815C}.Default|Default.ActiveCfg = Default
 		{7943E9FF-6A72-4474-B8AC-95756CCDD1D8}.Default|Default.ActiveCfg = Default
 		{7E6C8FE5-D8F5-4E03-8B01-A9491486CD6B}.Default|Default.ActiveCfg = Default
+		{F40F34A4-2560-484B-9D50-4DFF0015F80E}.Default|Default.ActiveCfg = Default
+		{C2DAE0D4-5286-43EC-9B15-D4418B967E6E}.Default|Default.ActiveCfg = Default
+		{79D002AE-6E23-4435-B26F-C94D9CB28013}.Default|Default.ActiveCfg = Default
+		{B9481AE9-2F8F-4F1B-BE54-EC6395639BB7}.Default|Default.ActiveCfg = Default
+		{1BFC6E64-4408-4540-98C5-9344581157B3}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
