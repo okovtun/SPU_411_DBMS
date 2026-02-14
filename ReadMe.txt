@@ -10,6 +10,10 @@ Server Language settings:
 https://learn.microsoft.com/en-us/sql/sql-server/install/local-language-versions-in-sql-server?view=sql-server-ver17
 
 TODO:
+1. Если дисциплина уже стоит в расписании, то ее нельзя добавить туда повторно;
+2. При выставлении расписания предусмотреть каникулы и праздничные дни;
+
+DONE:
 1. Написать фунцию GetNextDate(), которая возвращает дату следующего занятия для указанной группы;
 2. Применить все необходимые функции в процедуре 'sp_InsertScheduleSemistacionar';
 3. При выставлении расписания предусмотреть праздники и каникулы;
