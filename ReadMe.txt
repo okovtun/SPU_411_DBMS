@@ -6,12 +6,16 @@ https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
 Functions vs Stored procedures:
 https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server
 
+DataContainers:
+https://github.com/okovtun/P_418_OOP
+
 Server Language settings:
 https://learn.microsoft.com/en-us/sql/sql-server/install/local-language-versions-in-sql-server?view=sql-server-ver17
 
 TODO:
-1. Если дисциплина уже стоит в расписании, то ее нельзя добавить туда повторно;
+1. Если дисциплина уже стоит в расписании, то ее нельзя добавить туда повторно;	DONE
 2. При выставлении расписания предусмотреть каникулы и праздничные дни;
+3. Почитать про Триггеры;
 
 DONE:
 1. Написать фунцию GetNextDate(), которая возвращает дату следующего занятия для указанной группы;
